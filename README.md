@@ -250,17 +250,6 @@ Worked at the intersection of NLP and applied machine learning, building sentime
 
 </div>
 
----
-
-## <img src="https://em-content.zobj.net/source/apple/354/medal_1f3c5.png" width="28"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dileep328&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ## <img src="https://em-content.zobj.net/source/apple/354/chart-increasing_1f4c8.png" width="28"/> Contribution Activity
 
