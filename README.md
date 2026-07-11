@@ -130,7 +130,7 @@ An end-to-end analytics solution evaluating efficiency across the **CBP → HHS 
 | **Performance** | Optimized data processing for large tabular datasets |
 | **Security** | Local data handling with clean, auditable transformation logic |
 | **Impact** | Identified bottlenecks and backlog trends across the placement pipeline |
-| **Repository** | [github.com/dileep-maurya/childcare-analytics](https://github.com/dileep-maurya) |
+| **Repository** | [github.com/dileep328/childcare-analytics](https://github.com/dileep328) |
 
 Performed thorough data cleaning, feature engineering, and exploratory data analysis to derive actionable operational insights, then packaged these into an interactive KPI dashboard for continuous performance monitoring.
 
@@ -149,7 +149,7 @@ An intelligent decision-support platform for **factory allocation and logistics 
 | **Performance** | Real-time KPI computation via interactive dashboards |
 | **Security** | Sandboxed local analytics with no external data exposure |
 | **Impact** | Delivered cost-heavy product line insights for strategic decisions |
-| **Repository** | [github.com/dileep-maurya/supply-chain-dss](https://github.com/dileep-maurya) |
+| **Repository** | [github.com/dileep328/supply-chain-dss](https://github.com/dileep328) |
 
 Built end-to-end data analysis and KPI monitoring capabilities, enabling stakeholders to visualize shipping cost drivers and make informed, cost-optimized allocation decisions.
 
@@ -168,7 +168,7 @@ A sentiment classification system trained on Amazon product review data, deploye
 | **Performance** | Improved prediction accuracy via targeted feature engineering |
 | **Security** | Text data preprocessed and anonymized locally |
 | **Impact** | Enabled clear interpretation of sentiment trends for business use |
-| **Repository** | [github.com/dileep-maurya/review-sentiment-engine](https://github.com/dileep-maurya) |
+| **Repository** | [github.com/dileep328/review-sentiment-engine](https://github.com/dileep328) |
 
 Collected and analyzed review data, applied text preprocessing and feature engineering, and deployed an interactive Streamlit dashboard for transparent, explainable sentiment predictions.
 
@@ -243,10 +243,10 @@ Worked at the intersection of NLP and applied machine learning, building sentime
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dileep-maurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=dileep-maurya&theme=tokyonight&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dileep328&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=dileep328&theme=tokyonight&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileep-maurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dileep328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" width="50%"/>
 
 </div>
 
@@ -256,7 +256,7 @@ Worked at the intersection of NLP and applied machine learning, building sentime
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dileep-maurya&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dileep328&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -266,7 +266,7 @@ Worked at the intersection of NLP and applied machine learning, building sentime
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileep-maurya&theme=react-dark&hide_border=true&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dileep328&theme=react-dark&hide_border=true&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd" width="100%"/>
 
 </div>
 
@@ -276,7 +276,7 @@ Worked at the intersection of NLP and applied machine learning, building sentime
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dileep-maurya/dileep-maurya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dileep328/dileep328/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -309,8 +309,8 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileep2003sid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep-maurya-b0a457360)
-[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dileep-maurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep328-b0a457360)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dileep328)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
