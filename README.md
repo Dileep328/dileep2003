@@ -15,15 +15,15 @@
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
-<a href="https://linkedin.com/in/dileep-maurya-b0a457360"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://linkedin.com/in/dileep2003-b0a457360"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
 <a href="mailto:dileep2003sid@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
-<a href="https://github.com/dileep-maurya"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://github.com/dileep2003"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dileep-maurya&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dileep-maurya?style=flat-square&color=6d28d9&labelColor=0f0524&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/dileep-maurya?style=flat-square&color=a78bfa&labelColor=0f0524&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=dileep2003&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dileep2003?style=flat-square&color=6d28d9&labelColor=0f0524&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/dileep2003?style=flat-square&color=a78bfa&labelColor=0f0524&label=STARS)
 
 </div>
 
