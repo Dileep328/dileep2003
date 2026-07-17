@@ -15,9 +15,9 @@
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1033" /></a>
-<a href="https://linkedin.com/in/dileep2003-b0a457360"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://www.linkedin.com/in/dileep-maurya-sid2003/"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033" /></a>
 <a href="mailto:dileep2003sid@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033" /></a>
-<a href="https://github.com/dileep2003"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
+<a href="https://github.com/Dileep328"><img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033" /></a>
 
 <br/><br/>
 
